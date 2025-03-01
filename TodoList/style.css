@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body{
+    height: 100%;
+    width: 100%;
+    background-color: #1a1a1a;
+    color: #c0bbbb;
+}
+#container{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+
+#add-btn{
+    background-color: #0414f8;
+    color: white;
+    font-size: 20px;
+    border: none;
+    border-radius: 10px;
+}
