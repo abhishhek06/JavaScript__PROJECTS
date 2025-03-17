@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body{
+    height: 100%;
+    width: 100%;
+    background-color: #1a1a1a;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#clock{
+    color: green;
+    font-size: 80px;
+    text-align: center;
+    padding: 10px;
+}
+#date{
+    text-align: center;
+}
