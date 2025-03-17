@@ -7,8 +7,8 @@
 html, body{
     height: 100%;
     width: 100%;
-    background-color: #f0eaea;
-    color: #200303;
+    background-color: #1a1a1a;
+    color: #fff;
     display: flex;
     justify-content: center;
     align-items: center;
